@@ -1,3 +1,5 @@
 # Multi-scale Cell-based Layout Representation for Document Understanding
 
-It will be open soon. Please wait for the time being. Any inquiries at mijung.a.kim@rakuten.com.
+The code link has been changed to https://github.com/rakutentech/Document-understanding
+
+Please check the link above.
